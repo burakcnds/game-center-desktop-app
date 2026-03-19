@@ -1,1 +1,1 @@
-# GameCenterOtomasyon .Net Desktop
+# GameCenterApp .Net Desktop
